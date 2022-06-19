@@ -1,0 +1,12 @@
+# Format Style Options - Created with Clang Power Tools
+---
+BasedOnStyle: WebKit
+BreakBeforeBraces: Attach
+ColumnLimit: 100
+IndentCaseLabels: true
+IndentWidth: 4
+SpaceBeforeParens: ControlStatements
+Standard: Latest
+TabWidth: 4
+UseTab: ForIndentation
+...
