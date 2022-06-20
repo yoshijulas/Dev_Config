@@ -1,12 +1,14 @@
 # Format Style Options - Created with Clang Power Tools
 ---
-BasedOnStyle: WebKit
-BreakBeforeBraces: Attach
-ColumnLimit: 100
-IndentCaseLabels: true
+AlignConsecutiveMacros: Consecutive
+BasedOnStyle: LLVM
+BreakInheritanceList: AfterColon
+BreakBeforeTernaryOperators: false
+BreakConstructorInitializers: AfterColon
+Cpp11BracedListStyle: false
+IncludeBlocks: Regroup
 IndentWidth: 4
-SpaceBeforeParens: ControlStatements
-Standard: Latest
+SpaceAfterCStyleCast: true
 TabWidth: 4
 UseTab: ForIndentation
 ...
