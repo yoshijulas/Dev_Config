@@ -9,6 +9,7 @@ Cpp11BracedListStyle: false
 IncludeBlocks: Regroup
 IndentCaseLabels: true
 IndentWidth: 4
+NamespaceIndentation: All
 SpaceAfterCStyleCast: true
 TabWidth: 4
 UseTab: ForIndentation
